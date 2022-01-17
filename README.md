@@ -1,2 +1,2 @@
-# stone-paper-scissor-game
-python programme for stone paper scissor game.
+# rock-paper-scissor-game
+python programme for rock paper scissor game.
